@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+int a=10,b=20;
+printf("enter the value of a,b");
+scanf("%d",&a&b);
+sum = a+b;
+printf("%d",sum);
+scanf("%d",&sum);
+}
